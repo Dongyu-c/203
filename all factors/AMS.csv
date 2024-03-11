@@ -1,0 +1,48 @@
+,Breakdown,ttm,12/31/2022,12/31/2021,12/31/2020
+0,Total Revenue,"20,664","19,746","17,628","17,837"
+1,Cost of Revenue,"11,866","11,364","10,902","13,371"
+2,Gross Profit,"8,798","8,382","6,726","4,466"
+3,Operating Expense,"6,682","5,145","4,531","4,608"
+4,Operating Income,"2,116","3,237","2,195",-142
+5,Net Non Operating Interest Income Expense,-711,-719,-742,"-1,047"
+6,Other Income Expense,-,-,-506,"-8,264"
+7,Pretax Income,827,"2,518",947,"-9,453"
+8,Tax Provision,426,963,269,"-1,737"
+9,Net Income Common Stockholders,441,"1,328",194,"-7,058"
+10,Diluted NI Available to Com Stockholders,441,"1,328",194,"-7,058"
+11,Basic EPS,0.07,0.21,0.03,-1.14
+12,Diluted EPS,0.07,0.21,0.03,-1.14
+13,Basic Average Shares,"6,382","6,297","6,044","6,182"
+14,Diluted Average Shares,"6,412","6,303","6,059","6,182"
+15,Total Operating Income as Reported,453,"2,431","1,351","-9,463"
+16,Total Expenses,"18,548","16,509","15,433","17,979"
+17,Net Income from Continuing & Discontinued Operation,441,"1,328",194,"-7,058"
+18,Normalized Income,897.62,"1,328",556.2682,-312.5198
+19,Interest Income,374,87,-,10
+20,Interest Expense,"1,085",806,742,"1,057"
+21,Net Interest Income,-711,-719,-742,"-1,047"
+22,EBIT,"1,912","3,324","1,689","-8,396"
+23,EBITDA,"7,012","8,107","6,661","-1,426"
+24,Reconciled Cost of Revenue,"11,866","11,364","10,902","13,371"
+25,Reconciled Depreciation,"5,100","4,783","4,972","6,970"
+26,Net Income from Continuing Operation Net Minority Interest,441,"1,328",194,"-7,058"
+27,Total Unusual Items Excluding Goodwill,-578,0,-506,"-8,264"
+28,Total Unusual Items,-578,0,-506,"-8,264"
+29,Normalized EBITDA,"7,590","8,107","7,167","6,838"
+30,Tax Rate for Calcs,0,0,0,0
+31,Tax Effect of Unusual Items,-121.38,0,-143.7318,"-1,519"
+32,Breakdown,12/31/2022,12/31/2021,12/31/2020,
+33,Total Assets,"43,956","45,430","43,653",
+34,Total Liabilities Net Minority Interest,"18,331","21,191","20,003",
+35,Total Equity Gross Minority Interest,"25,625","24,239","23,650",
+36,Total Capitalization,"33,830","34,216","22,714",
+37,Common Stock Equity,"21,625","19,893","19,274",
+38,Capital Lease Obligations,351,728,"9,805",
+39,Net Tangible Assets,"20,282","18,550","17,931",
+40,Working Capital,"13,548","9,196","-1,530",
+41,Invested Capital,"35,589","36,639","23,871",
+42,Tangible Book Value,"20,282","18,550","17,931",
+43,Total Debt,"14,315","17,474","14,402",
+44,Net Debt,"1,629","8,601",636,
+45,Share Issued,"6,184","6,049","5,791",
+46,Ordinary Shares Number,"6,184","6,049","5,791",
