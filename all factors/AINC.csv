@@ -1,0 +1,64 @@
+,Breakdown,ttm,12/31/2022,12/31/2021,12/31/2020
+0,Total Revenue,"737,459","644,432","384,567","293,351"
+1,Cost of Revenue,"626,135","531,241","311,555","249,449"
+2,Gross Profit,"111,324","113,191","73,012","43,902"
+3,Operating Expense,"96,042","91,598","77,085","78,995"
+4,Operating Income,"15,282","21,593","-4,073","-35,093"
+5,Net Non Operating Interest Income Expense,"-12,721","-10,386","-5,181","-5,675"
+6,Other Income Expense,-731,246,"-1,726","-189,275"
+7,Pretax Income,"1,830","11,453","-10,980","-230,043"
+8,Tax Provision,"4,201","8,530",-162,"-14,255"
+9,Net Income Common Stockholders,"-38,063","-32,812","-45,978","-247,347"
+10,Average Dilution Earnings,-,-,0,0
+11,Diluted NI Available to Com Stockholders,"-38,952","-32,812","-45,978","-247,347"
+12,Basic EPS,-12.55,-11.26,-16.68,-108.30
+13,Diluted EPS,-12.80,-11.26,-16.68,-108.30
+14,Basic Average Shares,"3,043","2,915","2,756","2,284"
+15,Diluted Average Shares,"3,043","2,915","2,756","2,284"
+16,Total Operating Income as Reported,"15,282","21,593","-5,233","-223,930"
+17,Total Expenses,"722,177","622,839","388,640","328,444"
+18,Net Income from Continuing & Discontinued Operation,"-1,895","3,646","-9,925","-212,365"
+19,Normalized Income,"-1,731","3,742","-8,779","-34,868"
+20,Interest Income,"1,415",371,285,32
+21,Interest Expense,"14,136","10,757","5,466","5,707"
+22,Net Interest Income,"-12,721","-10,386","-5,181","-5,675"
+23,EBIT,"15,966","22,210","-5,514","-224,336"
+24,EBITDA,"51,769","60,213","32,983","-178,662"
+25,Reconciled Cost of Revenue,"619,432","525,004","305,656","243,732"
+26,Reconciled Depreciation,"35,803","38,003","38,497","45,674"
+27,Net Income from Continuing Operation Net Minority Interest,"-1,895","3,646","-9,925","-212,365"
+28,Total Unusual Items Excluding Goodwill,-207,-121,"-1,163","-189,223"
+29,Total Unusual Items,-207,-121,"-1,163","-189,223"
+30,Normalized EBITDA,"51,976","60,334","34,146","10,561"
+31,Tax Rate for Calcs,0,0,0,0
+32,Tax Effect of Unusual Items,-43.47,-25.41,-17.159,"-11,726"
+33,Breakdown,12/31/2022,12/31/2021,12/31/2020,
+34,Total Assets,"482,356","514,796","565,439",
+35,Total Liabilities Net Minority Interest,"274,208","278,492","286,256",
+36,Total Equity Gross Minority Interest,"208,148","236,304","279,183",
+37,Total Capitalization,"296,047","288,266","334,819",
+38,Preferred Stock Equity,"478,000","478,000","476,947",
+39,Common Stock Equity,"-271,633","-242,403","-199,477",
+40,Capital Lease Obligations,"27,368","71,649","74,556",
+41,Net Tangible Assets,"-78,852","-65,751","-50,584",
+42,Working Capital,"3,857","-16,269",602,
+43,Invested Capital,"-176,758","-183,009","-136,781",
+44,Tangible Book Value,"-556,852","-543,751","-527,531",
+45,Total Debt,"122,243","131,043","137,252",
+46,Net Debt,"50,485","21,823","17,426",
+47,Share Issued,"3,182","3,073","2,900",
+48,Ordinary Shares Number,"3,110","3,023","2,868",
+49,Treasury Shares Number,71.541,49.686,32.031,
+50,Breakdown,ttm,12/31/2022,12/31/2021,12/31/2020
+51,Operating Cash Flow,"27,899","42,108","20,836","32,210"
+52,Investing Cash Flow,"-35,205","-22,367","-9,438","-6,030"
+53,Financing Cash Flow,"-9,657","-10,713","-21,648","2,730"
+54,End Cash Position,"64,222","81,448","72,449","82,666"
+55,Income Tax Paid Supplemental Data,"10,142","6,403","6,628","8,539"
+56,Interest Paid Supplemental Data,"13,061","9,749","5,022","4,761"
+57,Capital Expenditure,"-24,274","-14,797","-8,074","-4,591"
+58,Issuance of Capital Stock,-,-,-,0
+59,Issuance of Debt,"48,444","71,489","4,726","59,457"
+60,Repayment of Debt,"-22,039","-35,168","-10,239","-34,283"
+61,Repurchase of Capital Stock,-388,-270,-121,-18
+62,Free Cash Flow,"3,625","27,311","12,762","27,619"
